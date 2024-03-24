@@ -1,6 +1,6 @@
 # URLとは
 ### Uniform Resource Locater の略称で、ウェブ上のリソース（Webページ、画像、動画など）の場所を示すためのアドレス（住所）。
-ウェブページやファイルがどこにあるかを特定するために使用され、通常、プロトコル（http、httpsなど）、ドメイン名、パスなどの要素で構成されます。
+ウェブページやファイルがどこにあるかを特定するために使用され、通常、プロトコル（http、httpsなど）、ドメイン名、パスなどの要素で構成される。
 
 ![alt](https://22681411.fs1.hubspotusercontent-na1.net/hubfs/22681411/AnalyticsCci_February2023/Image/6ac652_01154d65d0ca4864b6f2b719f50fdd39_mv2%20(1).png)
 
